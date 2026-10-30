@@ -1,0 +1,3 @@
+# app-ads.txt for Birch: tells advertisers which ad networks may sell ads in the app.
+# Claude fills in your AdMob publisher ID in Stage 4 (it comes from your AdMob App ID).
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
